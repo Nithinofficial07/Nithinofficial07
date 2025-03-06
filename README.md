@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a detail-driven data science student, I'm dedicated to developing my skills in data analysis, machine learning, and data visualization. I'm excited to collaborate with others to solve real-world problems and drive innovation through data-driven insights.
+🔭 I’m currently learning visualization tools such as Power BI<br>👯 I’m currently working on Aquaculture Predictive modeling <br>🤝 All of my projects are available on GitHub<br>
 
 
 ## 🌐 Socials:
@@ -14,4 +14,6 @@ As a detail-driven data science student, I'm dedicated to developing my skills i
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nithinofficial07&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
